@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The first computer virus, named "Creeper," was created in the early 1970s as an experiment.
 - Unlike modern viruses, Creeper wasn't malicious; it simply displayed a message that said, "I'm the creeper, catch me if you can!"
-- ![Image of Creeper Virus](creep.png)
+- ![Image of Creeper Virus](Files/creep.png)
 
 
 <!---
