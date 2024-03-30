@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShadowPlayzDev
 - 👀 I’m interested in Tech and Music
 - 🌱 I’m currently learning HTML, CSS and JS
-- 💞️ I’m looking to collaborate on SimpleShutdown
+- 💞️ I’m looking to collaborate on `undefined`
 - 📫 How to reach me ShadowPlayzDev@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The first computer virus, named "Creeper," was created in the early 1970s as an experiment.
