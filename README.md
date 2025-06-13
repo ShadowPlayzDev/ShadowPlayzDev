@@ -6,6 +6,4 @@ Hey there! I'm
 [![Website Preview](preview.webp)](https://steve.is-a.dev)
 
 ### Github Statistics
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowplayzdev&layout=compact&theme=transparent&hide_border=true)](https://github.com/shadowplayzdev) [![Statistics](https://github-readme-stats.vercel.app/api?username=shadowplayzdev&show_icons=true&theme=transparent&hide_border=true&count_private=false)](https://github.com/shadowplayzdev)
-
-[comment]: # Theme=catppuccin_mocha
+[![Statistics](https://github-readme-stats.vercel.app/api?username=shadowplayzdev&show_icons=true&theme=transparent&hide_border=true&count_private=false)](https://github.com/shadowplayzdev) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowplayzdev&layout=compact&theme=transparent&hide_border=true)](https://github.com/shadowplayzdev)
