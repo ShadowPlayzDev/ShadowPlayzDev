@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://steve.is-a.dev">
-    <img src="title.webp" alt="Your Website Icon" width="100px"> </a>
+    <img src="title.webp" alt="Your Website Icon" width="400px"> </a>
 </div>
 
 <div align="center">
