@@ -1,12 +1,13 @@
-<div align="center" width="200px">
+<div align="center">
   <a href="https://steve.is-a.dev">
-  <img src="title.webp"</img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowplayzdev&layout=compact&theme=transparent&hide_border=true"></img>
-  </a>
+    <img src="title.webp" alt="Your Website Icon" width="100px"> </a>
 </div>
 
 <div align="center">
-<a href="https://github.com/ShadowPlayzDev">
-<img src="https://github-readme-stats.vercel.app/api?username=shadowplayzdev&show_icons=true&theme=transparent&hide_border=true&count_private=false"></img>
+  <a href="https://github.com/ShadowPlayzDev">
+    <img src="https://github-readme-stats.vercel.app/api?username=shadowplayzdev&show_icons=true&theme=transparent&hide_border=true&count_private=false" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/ShadowPlayzDev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowplayzdev&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
   </a>
 </div>
