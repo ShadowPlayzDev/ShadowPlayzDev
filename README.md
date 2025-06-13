@@ -1,4 +1,8 @@
 <div align="center">
+<img src="title.webp"</img>
+<h1>Github Statistics</h1>
+</div>
+
 [![Title](title.webp)](https://steve.is-a.dev)
 </div>
 ### Github Statistics
