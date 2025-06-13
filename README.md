@@ -1,3 +1,6 @@
+Hey there! I'm &lt;span style="font-size: 4em; font-weight: bold; vertical-align: middle;">Steve&lt;/span> &lt;span style="font-size: 1.2em;">(@shadowplayzdev) and I love building cool stuff with code.&lt;/span>
+
+
 Hey there! I'm
 # Steve
 *(@shadowplayzdev)* and I love building cool stuff with code.
