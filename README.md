@@ -10,7 +10,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shadowplayzdev&show_icons=true&theme=transparent&hide_border=true&count_private=false"></img>
   </a>
 </div>
-
-
-# Old Code
-[![Statistics](https://github-readme-stats.vercel.app/api?username=shadowplayzdev&show_icons=true&theme=transparent&hide_border=true&count_private=false)](https://github.com/shadowplayzdev) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowplayzdev&layout=compact&theme=transparent&hide_border=true)](https://github.com/shadowplayzdev)
