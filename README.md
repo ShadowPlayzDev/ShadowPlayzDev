@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://steve.is-a.dev">
-    <img src="title.webp" alt="Your Website Icon" width="55%"> </a>
+    <img src="title.webp" alt="Hi, I'm Steve. A passionate web developer building modern, responsive, and user-friendly applications. Click to learn more." width="55%"> </a>
 </div>
 
 <div align="center">
