@@ -1,4 +1,4 @@
-<div align="center" width="75%">
+<div align="center" width="25%">
 <img src="title.webp"</img>
 <h1>Github Statistics</h1>
 </div>
